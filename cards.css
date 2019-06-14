@@ -1,0 +1,8 @@
+.card {
+  border:2px dotted purple;
+}
+
+button {
+  border-radius:5px;
+  border-style:none;
+}
